@@ -1,3 +1,11 @@
 # ninja log v5
 1	46	7507645072715295	CMakeFiles/test_github.dir/main.c.obj	6cee46dec73b3541
 47	163	7507645073857440	test_github.exe	97dffad8031fe29
+1	42	7507650874098798	CMakeFiles/test_github.dir/main.c.obj	6cee46dec73b3541
+42	93	7507650874595509	test_github.exe	97dffad8031fe29
+2	39	7507650978393557	CMakeFiles/test_github.dir/main.c.obj	6cee46dec73b3541
+40	90	7507650978878656	test_github.exe	97dffad8031fe29
+1	42	7507651270576532	CMakeFiles/test_github.dir/main.c.obj	6cee46dec73b3541
+42	93	7507651271072214	test_github.exe	97dffad8031fe29
+2	39	7507651332426602	CMakeFiles/test_github.dir/main.c.obj	6cee46dec73b3541
+40	90	7507651332913534	test_github.exe	97dffad8031fe29
